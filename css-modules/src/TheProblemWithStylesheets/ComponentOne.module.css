@@ -1,0 +1,13 @@
+.card {
+    width: 50%;
+    background-color: yellow;
+    margin: 3% 0 3%;
+}
+
+.cardHeading {
+    color: purple;
+}
+
+.cardP {
+    background-color: yellowgreen;
+}

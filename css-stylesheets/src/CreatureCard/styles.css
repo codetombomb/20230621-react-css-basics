@@ -1,0 +1,29 @@
+.card {
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 20%;
+    min-width: 150px;
+    margin: 2%;
+}
+
+.card-img {
+    width: 50%;
+}
+
+.center-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column; 
+}
+
+.card-h1 {
+    font-size: 1em;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.card-desc {
+    width: 90%;
+    padding: 1%;
+}

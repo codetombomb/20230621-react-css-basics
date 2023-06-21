@@ -1,0 +1,7 @@
+.creatureCard {
+    margin: 1%;
+}
+
+.cardTitle {
+    text-transform: capitalize;
+}
